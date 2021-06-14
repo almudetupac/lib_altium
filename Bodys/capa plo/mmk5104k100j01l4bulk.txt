@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.6";"";
+"SUPPLIER";"KEMET";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-04092019-088826";"";
+"TraceParts.PartLanguage";"es";"";
+"DESIGN";"Condensador de poliéster PET KEMET, 100nF, ±10%, 63 V ac, 100 V dc, Montaje en orificio pasante";"";
+"TraceParts.InstanceId";"10-04092019-0888267ZY9DKCAT3791CHPHEB6CBR0H";"";
+"TraceParts.PartTitle";"Condensador de poliéster PET KEMET, 100nF, ±10%, 63 V ac, 100 V dc, Montaje en orificio pasante";"";
+"REFERENCE";"MMK5104K100J01L4BULK";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/1731655?cm_mmc=en-ds-_-mcad-_-traceparts-_-1731655'";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"rs_stock_number";"1731655";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:10-04092019-088826";"";

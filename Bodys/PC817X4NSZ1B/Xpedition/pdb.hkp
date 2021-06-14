@@ -1,0 +1,45 @@
+.Filetype ASCII_PDB
+.Version "02.01"
+.Units MM
+.Notation SI
+
+.Job "1220466/378146/2.49/4/4/Phototransistor"
+.Creator "SamacSys ECAD Model PC817X4NSZ1B"
+.Number "PC817X4NSZ1B"
+	..Name "PC817X4NSZ1B"
+		...Default
+	..Label "PC817X4NSZ1B"
+		...Default
+	..Desc "Transistor Output Optocouplers OPTOISOLATOR 5KV TRANS DIP, Optoisolator Transistor Output 1 Channel"
+	..RefPrefix "Q"
+	..TopCell "DIP762W60P254L460H455Q4N"
+	..BottomCell ""
+	..Prop "Type",	"Phototransistor",	"Text"
+	..Prop "Manufacturer_Name",	"Sharp Microelectronics",	"Text"
+	..Prop "Manufacturer_Part_Number",	"PC817X4NSZ1B",	"Text"
+	..Prop "Mouser Part Number",	"852-PC817X4NSZ1B",	"Text"
+	..Prop "Mouser Price/Stock",	"https://www.mouser.co.uk/ProductDetail/Sharp-Microelectronics/PC817X4NSZ1B?qs=rrS6PyfT74dXG7qDYHTXow%3D%3D",	"Text"
+	..Prop "Arrow Part Number",	"PC817X4NSZ1B",	"Text"
+	..Prop "Arrow Price/Stock",	"https://www.arrow.com/en/products/pc817x4nsz1b/sharp",	"Text"
+	..Prop "Description",	"Transistor Output Optocouplers OPTOISOLATOR 5KV TRANS DIP, Optoisolator Transistor Output 1 Channel",	"Text"
+	..Prop "Datasheet Link",	"https://componentsearchengine.com/Datasheets/1/PC817X4NSZ1B.pdf",	"Text"
+	..Prop "Height",	"4.55",	"Real"
+	..SwapGroup	"gate1"
+		...SwapID	"P0"
+		...SwapID	"P1"
+		...SwapID	"P2"
+		...SwapID	"P3"
+	..Symbol	"SamacSys:PC817X4NSZ1B"
+		...Symbol_SwapGroup	"gate1"
+			....PinName	"ANODE"
+			....PinName	"CATHODE"
+			....PinName	"EMITTER"
+			....PinName	"COLLECTOR"
+	..Slots
+		...Slot_SwapGroup	"gate1"
+			....SlotID	1
+			....SwapCode	0
+			....PinNumber	"1"
+			....PinNumber	"2"
+			....PinNumber	"3"
+			....PinNumber	"4"

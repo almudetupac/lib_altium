@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PC817X4NSZ1B"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-08-22-15:00:58)
+    (mountForm default
+        (footprintRef "DIP762W60P254L460H455Q4N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.6";"";
+"SUPPLIER";"KEMET";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-03092019-106298";"";
+"TraceParts.PartLanguage";"es";"";
+"DESIGN";"Condensador de polipropileno PP KEMET AEC-Q200, 68nF, ±5%, 220 V ac, 400 V dc, Montaje en orificio pasante";"";
+"TraceParts.InstanceId";"10-03092019-106298BSACP3U4DXXM0R6XQ19SLG0YD";"";
+"TraceParts.PartTitle";"Condensador de polipropileno PP KEMET AEC-Q200, 68nF, ±5%, 220 V ac, 400 V dc, Montaje en orificio pasante";"";
+"REFERENCE";"R75MI26804030J";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/1719311?cm_mmc=en-ds-_-mcad-_-traceparts-_-1719311'";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"rs_stock_number";"1719311";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:10-03092019-106298";"";

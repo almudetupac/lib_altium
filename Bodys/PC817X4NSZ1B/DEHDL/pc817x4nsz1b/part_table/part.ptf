@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PC817X4NSZ1B'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Sharp Microelectronics", "PC817X4NSZ1B" (!) = "", "DIP762W60P254L460H455Q4N", "Dual-In-Line Packages", "852-PC817X4NSZ1B", "https://www.mouser.co.uk/ProductDetail/Sharp-Microelectronics/PC817X4NSZ1B?qs=rrS6PyfT74dXG7qDYHTXow%3D%3D", "PC817X4NSZ1B", "https://www.arrow.com/en/products/pc817x4nsz1b/sharp", "Transistor Output Optocouplers OPTOISOLATOR 5KV TRANS DIP, Optoisolator Transistor Output 1 Channel", "https://componentsearchengine.com/Datasheets/1/PC817X4NSZ1B.pdf", "4.55 mm"
+END_PART
+
+END.
